@@ -1,5 +1,5 @@
 {
-  "name": "finders-keepers-backend",
+  "name": "pipers-seekers-backend",
   "version": "1.0.0",
   "engines": {
     "node": "9.11"
@@ -23,15 +23,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/spyosaurus/finders-keepers-backend.git"
+    "url": "git+https://github.com/jenwill/pipers-seekers-backend.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/spyosaurus/finders-keepers-backend/issues"
+    "url": "https://github.com/jenwill/pipers-seekers-backend/issues"
   },
-  "homepage": "https://github.com/spyosaurus/finders-keepers-backend#readme",
+  "homepage": "https://github.com/jenwill/pipers-seekers-backend#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-eslint": "^8.2.3",
@@ -47,7 +47,7 @@
     "winston": "^3.0.0"
   },
   "dependencies": {
-    "artillery": "^1.6.0-20",
+    "artillery": "^1.6.0-25",
     "babel-jest": "^23.0.1",
     "bcrypt": "^2.0.1",
     "body-parser": "^1.18.3",

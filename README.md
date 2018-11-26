@@ -1,4 +1,4 @@
-# Finders-Keepers-Backend Documentation
+# Pipers-Seekers-Backend Documentation
 ### Contents
 * [Build Status](#Build-Status)
 
@@ -9,17 +9,18 @@
 
 ## Version
 
-1.0.3
+1.0.0
 
 ## Description
-
-Finder's Keepers is a competitive, multi-player, brain-game inspired by iSpy. Users have 30 seconds to find and click as many stars as they can,before their competitors. The user who is able to find the most items in their round is declared the winner!
+Piper's Seekers backend is a fork of the Finders Keepers backend at  https://github.com/spyosaurus/finders-keepers-backend
+This fork was created by Finders Keepers team member Jennifer Piper, to allow her to freely modify and upgrade her own version of the original Finders Keepers game.
 
 ## Build Status
-[![Build Status](https://travis-ci.org/spyosaurus/finders-keepers-backend.svg?branch=master)](https://travis-ci.org/spyosaurus/finders-keepers-backend)
+[![Build Status](https://travis-ci.org/jenwill-pipers-seekers-backend.svg?branch=master)](https://travis-ci.org/jenwill-pipers-seekers-backend)
+
 
 ## Architecture
-Finder's Keepers is a full-stack application, utilizing the following:
+Piper's Seekers is a full-stack application, utilizing the following:
 
 - Code Style: Airbnb
 - Test Suite: Jest
