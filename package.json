@@ -47,7 +47,7 @@
     "winston": "^3.0.0"
   },
   "dependencies": {
-    "artillery": "^1.6.0-20",
+    "artillery": "^1.6.0-25",
     "babel-jest": "^23.0.1",
     "bcrypt": "^2.0.1",
     "body-parser": "^1.18.3",
